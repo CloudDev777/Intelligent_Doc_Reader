@@ -161,6 +161,10 @@ az storage blob upload --account-name stginvoicesdemo --container-name invoices 
    * **Table**: `InvoiceId`, `VendorName`, `InvoiceDate`, `TotalAmount`
    * **PDF Viewer**: bind **Document URL** to `SourcePdf`.
 6. **Publish** to Power BI Service.
+---
+
+## Sample Power BI Report
+![Power BI Report](PowerBI.png)
 
 ---
 
