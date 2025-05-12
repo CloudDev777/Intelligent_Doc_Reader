@@ -1,6 +1,6 @@
 # Intelligent Doc Reader – Azure Invoice Processor
 
-![Azure](https://img.shields.io/badge/Azure-Form%20Recognizer-blue) ![Python](https://img.shields.io/badge/Python-3.8+-blue) ![Functions](https://img.shields.io/badge/Azure%20Functions-v4-green)
+![Azure](https://img.shields.io/badge/Azure-Form%20Recognizer-blue) ![Python](https://img.shields.io/badge/Python-3.8+-blue) ![Functions](https://img.shields.io/badge/Azure%20Functions-v4-green) ![Power BI](https://img.shields.io/badge/Power%20BI-Report-yellow) ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://github.com/RajLaskar10/IntelligentDocReader)
 
 A demo that shows how to:
 
