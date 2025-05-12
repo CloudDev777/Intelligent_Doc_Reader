@@ -10,7 +10,11 @@ A demo that shows how to:
 * Visualize both structured data and embedded PDFs in Power BI
 
 ---
+## Architecture Diagram
 
+![Architecture Diagram](Architecture-Diagram.png)
+
+---
 ## 📁 Repository structure
 
 ```
