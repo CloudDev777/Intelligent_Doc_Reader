@@ -164,7 +164,7 @@ az storage blob upload --account-name stginvoicesdemo --container-name invoices 
 ---
 
 ## Sample Power BI Report
-![Power BI Report](PowerBI.png)
+![Power BI Report](PowerBIR.png)
 
 ---
 
